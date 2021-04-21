@@ -2,7 +2,7 @@
 A module giving life to the Alien RPG motion tracker in foundry VTT
 
 The module installs a button just over the chat box that you can hit.
-When hitted, the button will scan for the nearest active and visibles tokens based on the selected token.
+When hit, the button will scan for the nearest active and visibles tokens based on the selected token.
 
 ## Player visibility control
 * In the window I added options to control visibility, just click on the arrow
